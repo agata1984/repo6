@@ -1,0 +1,75 @@
+Microsoft Windows [Version 10.0.19045.3086]
+(c) Microsoft Corporation. Wszelkie prawa zastrzeżone.
+
+C:\Users\MK-HOME-EXP>cd hashcat-6.2.6
+
+C:\Users\MK-HOME-EXP\hashcat-6.2.6>hashcat -I
+hashcat (v6.2.6) starting in backend information mode
+
+cuFuncSetAttribute is missing from CUDA shared library.
+
+Failed to initialize the NVIDIA main driver CUDA runtime library.
+
+Failed to initialize NVIDIA RTC library.
+
+* Device #3: CUDA SDK Toolkit not installed or incorrectly installed.
+             CUDA SDK Toolkit required for proper device support and utilization.
+             Falling back to OpenCL runtime.
+
+OpenCL Info:
+============
+
+OpenCL Platform ID #1
+  Vendor..: Intel(R) Corporation
+  Name....: Intel(R) OpenCL
+  Version.: OpenCL 1.2
+
+  Backend Device ID #1
+    Type...........: GPU
+    Vendor.ID......: 8
+    Vendor.........: Intel(R) Corporation
+    Name...........: Intel(R) HD Graphics 4400
+    Version........: OpenCL 1.2
+    Processor(s)...: 20
+    Clock..........: 1100
+    Memory.Total...: 1629 MB (limited to 203 MB allocatable in one block)
+    Memory.Free....: 768 MB
+    Local.Memory...: 64 KB
+    OpenCL.Version.: OpenCL C 1.2
+    Driver.Version.: 20.19.15.4531
+
+  Backend Device ID #2
+    Type...........: CPU
+    Vendor.ID......: 8
+    Vendor.........: Intel(R) Corporation
+    Name...........: Intel(R) Core(TM) i7-4510U CPU @ 2.00GHz
+    Version........: OpenCL 1.2 (Build 10094)
+    Processor(s)...: 4
+    Clock..........: 2000
+    Memory.Total...: 8095 MB (limited to 1011 MB allocatable in one block)
+    Memory.Free....: 4015 MB
+    Local.Memory...: 32 KB
+    OpenCL.Version.: OpenCL C 1.2
+    Driver.Version.: 5.2.0.10094
+
+OpenCL Platform ID #2
+  Vendor..: NVIDIA Corporation
+  Name....: NVIDIA CUDA
+  Version.: OpenCL 1.2 CUDA 8.0.0
+
+  Backend Device ID #3
+    Type...........: GPU
+    Vendor.ID......: 32
+    Vendor.........: NVIDIA Corporation
+    Name...........: GeForce 840M
+    Version........: OpenCL 1.2 CUDA
+    Processor(s)...: 3
+    Clock..........: 1124
+    Memory.Total...: 2048 MB (limited to 512 MB allocatable in one block)
+    Memory.Free....: 1664 MB
+    Local.Memory...: 48 KB
+    OpenCL.Version.: OpenCL C 1.2
+    Driver.Version.: 369.09
+    PCI.Addr.BDF...: 08:00.0
+
+

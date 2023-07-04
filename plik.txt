@@ -1,0 +1,5 @@
+	ProduKey is a small utility that displays the ProductID and the CD-Key of MS-Office, Windows, Exchange Server, and SQL Server installed on your computer. You can view this information for your current running operating system, or for another operating system/computer. This utility can be useful if you lost the product key of your Windows/Office, and you want to reinstall it on your computer.
+
+	When you connect to a network share on your LAN or to your .NET Passport account, Windows allows you to save your password in order to use it in each time that you connect the remote server. This utility recovers all network passwords stored on your system for the current logged-on user. It can also recover the passwords stored in Credentials file of external drive, as long as you know the last log-on password.
+
+
